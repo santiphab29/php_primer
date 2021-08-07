@@ -21,6 +21,7 @@
 
         echo "<h1>My name is : $name </h1>";
      ?>
+     <a href="https://www.heroku.com" target = "_blank" class="btn btn-dark">Heroku.com</a>
      <?php
             require'includes/footer.php '
      ?>
